@@ -1,6 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
+  "homepage": "https://semonmakarov.github.io/web-react-portfolio",
   "private": true,
   "dependencies": {
     "@flaticon/flaticon-uicons": "^3.1.0",
